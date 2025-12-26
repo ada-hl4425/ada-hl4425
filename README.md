@@ -4,13 +4,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ada-hl4425&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 <!-- 最常用的编程语言 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ada-hl4425&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ada-hl4425&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 <!-- 连续提交记录 -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ada-hl4425&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ada-hl4425&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 <!-- 成就奖杯 -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=ada-hl4425&theme=radical&no-frame=true&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ada-hl4425&theme=radical&no-frame=true&row=1&column=7&include_all_commits=true&count_private=true)
 
 <!--
 **ada-hl4425/ada-hl4425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
